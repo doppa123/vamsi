@@ -1,7 +1,0 @@
-for (i=0;i<=10;i++)
-{
-system.out.println("addtion of two number");
-}
-hi this is suhdeer
-this is jagadeesh
-this is vamsi
